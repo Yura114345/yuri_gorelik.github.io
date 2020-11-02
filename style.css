@@ -11,8 +11,8 @@ span{
 }
 
 img{
-	width: 96px;
-	border-radius: 48px;
+	width: 130px;
+	border-radius: 65px;
 	margin: auto;
 }
 
@@ -64,7 +64,7 @@ a:hover {
 }
 
 .intro span.highlight {
-	background-color: red;
+	background-color: black;
 	color: white;
 }
 
