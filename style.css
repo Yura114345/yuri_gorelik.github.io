@@ -64,19 +64,21 @@ a:hover {
 }
 
 .intro span.highlight {
-	background-color: black;
-	color: white;
+	font-weight: 900;
+	font-size: 27px;
+	color: black;
 }
 
-.intro span.highlight-red {
-	background-color: black;
-	color: white;
+.intro span.highlight-blue {
+	color: #1E90FF;
+	font-weight: bolder;
 	transition: 0.3s;
 }
 
-.intro span.highlight-red:hover {
-	background-color: red;
-	color: white;
+.intro span.highlight-blue:hover {
+	text-decoration: underline;
+	font-weight: bolder;
+	color: #1E90FF;
 	transition: 0.3s;
 }
 
