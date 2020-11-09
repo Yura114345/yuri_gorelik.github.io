@@ -43,7 +43,7 @@ a:hover {
 }
 
 ::selection {
-	color: white; 
+	color: white;
 	background: #1A6DBB;
 }
 
@@ -70,7 +70,7 @@ a:hover {
 }
 
 .intro span.highlight-blue {
-	color: #1E90FF;
+	color: #1A6DBB;
 	font-weight: bolder;
 	transition: 0.3s;
 }
@@ -78,7 +78,7 @@ a:hover {
 .intro span.highlight-blue:hover {
 	text-decoration: underline;
 	font-weight: bolder;
-	color: #1E90FF;
+	color: #1A6DBB;
 	transition: 0.3s;
 }
 
