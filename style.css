@@ -22,18 +22,26 @@ table {
 }
 
 table tr td:first-child {
-	padding-right: 7px;
+	padding-right: 9px;
 }
 
 a {
+	font-size: 19px;
 	text-decoration: none;
-	color: #000;
-	font-weight: bold;
+	font-weight: bolder;
+	color: #1A6DBB;
+	transition: 0.3s;
+}
+
+a:active {
+	color: #1A6DBB;
+	font-weight: bolder;
 	transition: 0.3s;
 }
 
 a:hover {
 	color: #1A6DBB;
+	text-decoration: underline;
 	transition: 0.3s;
 }
 
@@ -44,7 +52,7 @@ a:hover {
 
 ::selection {
 	color: white;
-	background: #1A6DBB;
+	background: #adc5db;
 }
 
 .content {
