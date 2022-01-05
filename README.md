@@ -1,2 +1,2 @@
 # yuri_gorelik.github.io
-Gorelik Yuri | Minsk, Belarus | Junior QA Engineer | Personal page
+Gorelik Yury | Minsk, Belarus | QA Engineer | Personal page
