@@ -1,2 +1,2 @@
 # yuri_gorelik.github.io
-Gorelik Yury | Minsk, Belarus | QA Engineer | Personal page
+Harelik Yury | Vilnius, Lithuania | AQA Engineer | Personal page
